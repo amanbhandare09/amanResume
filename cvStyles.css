@@ -641,7 +641,7 @@ main.row{
     margin-bottom: 30px;
   } */
     #sec-name{
-      padding: 90px 0 50px 0;
+      padding: 90px 0 10px 0;
       color: rgb(203, 200, 209);
       background-color: rgb(41, 43, 43);
       text-align: center;
@@ -651,7 +651,7 @@ main.row{
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      padding: 0 0 100px 0;
+      padding: 0 0 50px 0;
     }
     .profile-photo1{
       order: -1; /* This ensures the profile photo appears first */
@@ -678,14 +678,14 @@ main.row{
     .about-via1{
       display: inline-block;
       padding: 12px 12px; 
-      margin: 0px 0px 10px 0;
+      margin: 0px 0px 0px 0;
       color: rgb(41, 36, 66);
       background-color: rgb(168, 168, 197);
     }
     .about-via{
       display: inline-block;
       padding: 12px 22px; 
-      margin: 0px 0px 10px 0;
+      margin: 0px 0px 0px 0;
       color: rgb(41, 36, 66);
       background-color: rgb(168, 168, 197);
     }
